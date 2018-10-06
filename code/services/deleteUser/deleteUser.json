@@ -1,0 +1,17 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 32,
+    "dependencies": "log,userManagement,locationManagement,equipmentManagement,roleManagement",
+    "execution_timeout": 60,
+    "logging_enabled": "true",
+    "name": "deleteUser",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Administrator": 1
+    },
+    "run_user": "",
+    "source": "deleteUser.js"
+}

@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Collection of convenience functions associated with RHEMM use case.",
+    "name": "RheemUtilities",
+    "version": 49,
+    "visibility": "system"
+}

@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "clearblade,log,http,RheemUtilities",
+    "description": "",
+    "name": "DeleteOperation",
+    "version": 102,
+    "visibility": "system"
+}

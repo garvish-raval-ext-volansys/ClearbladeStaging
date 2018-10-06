@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "http,log,RheemUtilities,clearblade",
+    "description": "user management logic",
+    "name": "userManagement",
+    "version": 108,
+    "visibility": "system"
+}

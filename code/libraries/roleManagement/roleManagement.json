@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "http,RheemUtilities,clearblade,userManagement",
+    "description": "Role Management",
+    "name": "roleManagement",
+    "version": 77,
+    "visibility": "system"
+}

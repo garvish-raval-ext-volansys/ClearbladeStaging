@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade,RheemUtilities,http",
+    "description": "equipment Management",
+    "name": "equipmentManagement",
+    "version": 209,
+    "visibility": "system"
+}

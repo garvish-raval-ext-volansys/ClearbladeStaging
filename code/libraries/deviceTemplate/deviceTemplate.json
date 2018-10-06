@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "defines the properties and property order in a JSON document",
+    "name": "deviceTemplate",
+    "version": 1,
+    "visibility": "system"
+}
